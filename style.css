@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behaviour: smooth;
+}
+
+.e {
+  background-color: #f1c40f;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  line-height: 100px;
+   z-index: 1000;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  font-family: 'Anton', sans-serif;
+  padding: 0 20px;
+  color: #000000;
+   z-index: 1000;
+}
+
+nav {
+  position: fixed;
+  background-color: #f1c40f;
+  width: 100000px;
+  border-radius: 30px;
+}
+
+.whydiv {
+  margin-left: 20px;
+}
+
+.whydiv h1 {
+  padding-top: 150px;
+  font-family: 'Anton', sans-serif;
+}
+
+.whydiv p {
+  padding-top: 20px;
+  font-size: 25px;
+  font-family: 'Klee One', cursive;
+}
+
+
+.h1index {
+  padding-top: 80px;
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+  font-size: 75px;
+}
+
+.indexintrop {
+  font-size: 23px;
+  font-family: 'Klee One', cursive;
+  margin: 12px;
+  text-align: left;
+}
+
+.h2indexintro {
+  font-size:50px;
+  font-family: 'Teko', sans-serif;
+  margin-left: 12px;
+}
+
+.h2indexintro2 {
+  font-size: 50px;
+  font-family: 'Teko', sans-serif;
+  margin-left: 12px;
+}
+
+.indexintrop2 {
+  font-size: 23px;
+  font-family: 'Klee One', cursive;
+  margin: 12px;
+  text-align: left;
+}
